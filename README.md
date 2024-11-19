@@ -2,4 +2,4 @@
 
 ## Demo
 
-https://github.com/nambse/gelirgider/assets/demo.mp4
+https://github.com/nambse/gelirgider/raw/refs/heads/main/assets/demo.mp4
